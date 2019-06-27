@@ -1,0 +1,903 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d1785d08-e912-4089-8a1c-4734de0daa73" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/config/WebSocketConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#342#343#0" expanded="true" />
+                <element signature="e#393#394#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/constant/ReadMe.md">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/constant/CookieConstant.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/constant/RedisConstant.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/enums/PageEnum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" selection-start-line="2" selection-end-line="8" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/enums/PayStatus.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/enums/ReadMe.md">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/enums/RestMsg.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/form/ProductForm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/form/ReadMe.md">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>not null collate utf8_bin</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>collate utf8_bin not null</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/edson/wechatfood/controller/SellerController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/common/header.ftl" />
+        <option value="$PROJECT_DIR$/src/main/java/edson/wechatfood/security.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edson/wechatfood/SellerAuth.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edson/wechatfood/exception/SellerExceptionEnum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edson/wechatfood/security/SellerAuth.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edson/wechatfood/security/HandlerException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edson/wechatfood/exception/SellerException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edson/wechatfood/config/WebSocketConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edson/wechatfood/controller/WebSocketService.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/common/bootstrapCss.ftl" />
+        <option value="$PROJECT_DIR$/src/main/java/edson/wechatfood/WechatfoodApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edson/wechatfood/controller/BuyOrderController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edson/wechatfood/controller/SellOrderController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edson/wechatfood/service/ProductOrderServiceImp.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/view.ftl" />
+        <option value="$PROJECT_DIR$/src/main/java/edson/wechatfood/controller/ProductController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/product/form.ftl" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/defer_js/form_message.js" />
+        <option value="$PROJECT_DIR$/src/main/java/edson/MyTemplate/config/WebSocketConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edson/MyTemplate/MyTemplateApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edson/MyTemplate/service/TemplateService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edson/MyTemplate/service/ReadMe.md" />
+        <option value="$PROJECT_DIR$/src/main/java/edson/MyTemplate/Entity/ReadMe.md" />
+        <option value="$PROJECT_DIR$/src/main/java/edson/MyTemplate/VO/OrderVO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edson/MyTemplate/service/TemplateServiceImp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edson/MyTemplate/log/LogGenenrator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edson/MyTemplate/config/ReadMe.md" />
+        <option value="$PROJECT_DIR$/src/main/java/edson/MyTemplate/constant/ReadMe.md" />
+        <option value="$PROJECT_DIR$/src/main/java/edson/MyTemplate/dao/ReadMe.md" />
+        <option value="$PROJECT_DIR$/src/main/java/edson/MyTemplate/enums/RestMsg.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edson/MyTemplate/VO/RestVO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edson/MyTemplate/VO/RestWrapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edson/MyTemplate/controller/ReadMe.md" />
+        <option value="$PROJECT_DIR$/src/main/java/edson/MyTemplate/enums/ReadMe.md" />
+        <option value="$PROJECT_DIR$/src/main/java/edson/MyTemplate/exception/MyException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edson/MyTemplate/exception/MyExceptionEnum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edson/MyTemplate/exception/ReadMe.md" />
+        <option value="$PROJECT_DIR$/src/main/java/edson/MyTemplate/form/ReadMe.md" />
+        <option value="$PROJECT_DIR$/src/main/java/edson/MyTemplate/log/ReadMe" />
+        <option value="$PROJECT_DIR$/src/main/java/edson/MyTemplate/security/SellerAuth.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edson/MyTemplate/security/MyAuth.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edson/MyTemplate/security/HandlerException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edson/MyTemplate/security/ReadMe.md" />
+        <option value="$PROJECT_DIR$/src/main/java/edson/MyTemplate/utils/ReadMe.md" />
+        <option value="$PROJECT_DIR$/src/main/java/edson/MyTemplate/Entity/Order.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edson/MyTemplate/controller/BuyOrderController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edson/MyTemplate/VO/ReadMe.md" />
+        <option value="$PROJECT_DIR$/ReadMe.md" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\Java\apache-maven-3.6.0-bin\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="wechatfood" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="wechatfood" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-26" />
+    <option name="y" value="53" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MyTemplate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyTemplate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyTemplate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyTemplate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyTemplate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyTemplate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyTemplate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyTemplate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/edson/MyTemplate" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="edson.wechatfood.service" />
+      <recent name="edson.wechatfood.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Repository\MyTemplate\src\main\java\edson\MyTemplate" />
+      <recent name="F:\wechatfood\src\main\resources\static\mp3" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\wechatfood\src\main\resources\static\" />
+      <recent name="F:\wechatfood\src\main\resources\templates" />
+      <recent name="F:\wechatfood\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.WechatfoodApplication">
+    <configuration name="ProductOrderServiceImpTest.createOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyTemplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edson.MyTemplate.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edson.MyTemplate.service" />
+      <option name="MAIN_CLASS_NAME" value="edson.MyTemplate.service.ProductOrderServiceImpTest" />
+      <option name="METHOD_NAME" value="createOrder" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductOrderServiceImpTest.finishOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyTemplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edson.MyTemplate.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edson.MyTemplate.service" />
+      <option name="MAIN_CLASS_NAME" value="edson.MyTemplate.service.ProductOrderServiceImpTest" />
+      <option name="METHOD_NAME" value="finishOrder" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductOrderServiceImpTest.payOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyTemplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edson.MyTemplate.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edson.MyTemplate.service" />
+      <option name="MAIN_CLASS_NAME" value="edson.MyTemplate.service.ProductOrderServiceImpTest" />
+      <option name="METHOD_NAME" value="payOrder" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SellerServiceTest.findOneByOpenid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyTemplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edson.MyTemplate.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edson.MyTemplate.service" />
+      <option name="MAIN_CLASS_NAME" value="edson.MyTemplate.service.SellerServiceTest" />
+      <option name="METHOD_NAME" value="findOneByOpenid" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SellerServiceTest.saveOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyTemplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edson.MyTemplate.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edson.MyTemplate.service" />
+      <option name="MAIN_CLASS_NAME" value="edson.MyTemplate.service.SellerServiceTest" />
+      <option name="METHOD_NAME" value="saveOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WechatfoodApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="MyTemplate" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="edson.MyTemplate.MyTemplateApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ProductOrderServiceImpTest.createOrder" />
+      <item itemvalue="JUnit.ProductOrderServiceImpTest.payOrder" />
+      <item itemvalue="JUnit.ProductOrderServiceImpTest.finishOrder" />
+      <item itemvalue="JUnit.SellerServiceTest.saveOne" />
+      <item itemvalue="JUnit.SellerServiceTest.findOneByOpenid" />
+      <item itemvalue="Spring Boot.WechatfoodApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SellerServiceTest.findOneByOpenid" />
+        <item itemvalue="JUnit.SellerServiceTest.saveOne" />
+        <item itemvalue="JUnit.ProductOrderServiceImpTest.createOrder" />
+        <item itemvalue="JUnit.ProductOrderServiceImpTest.finishOrder" />
+        <item itemvalue="JUnit.ProductOrderServiceImpTest.payOrder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1785d08-e912-4089-8a1c-4734de0daa73" name="Default Changelist" comment="" />
+      <created>1557990444398</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557990444398</updated>
+      <workItem from="1557990447810" duration="2669000" />
+      <workItem from="1558076200747" duration="8155000" />
+      <workItem from="1558332926750" duration="9371000" />
+      <workItem from="1558402496558" duration="44000" />
+      <workItem from="1558582406687" duration="851000" />
+      <workItem from="1560304768840" duration="18778000" />
+      <workItem from="1560474088836" duration="15343000" />
+      <workItem from="1560732793171" duration="21116000" />
+      <workItem from="1560819921633" duration="9026000" />
+      <workItem from="1560844093746" duration="1805000" />
+      <workItem from="1560846508175" duration="2844000" />
+      <workItem from="1560911714127" duration="17890000" />
+      <workItem from="1560992175890" duration="21028000" />
+      <workItem from="1561078306631" duration="17567000" />
+      <workItem from="1561338819106" duration="11881000" />
+      <workItem from="1561424036633" duration="12142000" />
+      <workItem from="1561511090546" duration="13532000" />
+      <workItem from="1561535329766" duration="2965000" />
+      <workItem from="1561596308017" duration="3068000" />
+      <workItem from="1561599503428" duration="2907000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ProductOrderServiceImpTest_payOrder - 2019.06.17 at 11h 29m 25s.xml">
+      <configuration name="ProductOrderServiceImpTest.payOrder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductOrderServiceImpTest_payOrder - 2019.06.17 at 11h 30m 12s.xml">
+      <configuration name="ProductOrderServiceImpTest.payOrder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductOrderServiceImpTest_finishOrder - 2019.06.17 at 11h 32m 37s.xml">
+      <configuration name="ProductOrderServiceImpTest.finishOrder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductOrderServiceImpTest_createOrder - 2019.06.19 at 14h 30m 34s.xml">
+      <configuration name="ProductOrderServiceImpTest.createOrder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductOrderServiceImpTest_createOrder - 2019.06.19 at 14h 31m 01s.xml">
+      <configuration name="ProductOrderServiceImpTest.createOrder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductOrderServiceImpTest_createOrder - 2019.06.19 at 15h 50m 28s.xml">
+      <configuration name="ProductOrderServiceImpTest.createOrder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SellerServiceTest_saveOne - 2019.06.21 at 09h 58m 41s.xml">
+      <configuration name="SellerServiceTest.saveOne" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SellerServiceTest_saveOne - 2019.06.21 at 10h 00m 09s.xml">
+      <configuration name="SellerServiceTest.saveOne" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SellerServiceTest_saveOne - 2019.06.21 at 10h 02m 24s.xml">
+      <configuration name="SellerServiceTest.saveOne" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SellerServiceTest_findOneByOpenid - 2019.06.21 at 10h 05m 31s.xml">
+      <configuration name="SellerServiceTest.findOneByOpenid" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="192982000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3202417" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49697885" visible="true" weight="0.14820847" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49773413" weight="0.5162867" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.4136808" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5022659" side_tool="true" weight="0.14495113" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49924472" weight="0.23452769" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32899022" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Problems" order="15" weight="0.32899022" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Database" order="1" weight="0.32930514" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.35271904" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32930514" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/edson/MyTemplate/DaoTest.java</url>
+          <line>21</line>
+          <properties class="edson.MyTemplate.DaoTest" method="test1">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/controller/BuyProductController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/controller/IndexController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/controller/SellerController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/controller/ProductController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/dao/ProductInfoDao.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/dao/SellerDao.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/dao/ProductCategoryDao.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/dao/ProductOrderItemDao.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/dao/ProductOrderDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/dao/ReadMe.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="66">
+            <caret line="3" selection-start-line="3" selection-end-line="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/Entity/ReadMe.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="110">
+            <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/enums/OrderStatus.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/enums/ProductStatus.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/utils/GetPageEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/exception/SellerException.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/exception/SellerExceptionEnum.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/exception/ReadMe.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="110">
+            <caret line="5" column="77" selection-start-line="5" selection-start-column="77" selection-end-line="5" selection-end-column="77" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/exception/MyException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/exception/MyExceptionEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/log/LogGenenrator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="20" column="28" lean-forward="true" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/form/OrderForm.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/log/ReadMe">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="132">
+            <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/controller/ReadMe.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="30" lean-forward="true" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="66">
+            <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/security/MyAuth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="18" column="49" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/security/HandlerException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/MyTemplateApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/utils/ReadMe.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/VO/OrderVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/VO/RestWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/VO/RestVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/security/ReadMe.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/Entity/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding>
+            <element signature="e#1674#1675#0" expanded="true" />
+            <element signature="e#1760#1761#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/controller/WebSocketService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/controller/SellOrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="75" column="34" selection-start-line="75" selection-start-column="34" selection-end-line="75" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/controller/BuyOrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/VO/ReadMe.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/wechat.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadMe.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="99" column="29" selection-start-line="99" selection-start-column="29" selection-end-line="99" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/config/ReadMe.md">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="44">
+            <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/config/WebSocketConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/constant/ReadMe.md">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="44">
+            <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/constant/CookieConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/constant/RedisConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/enums/PageEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/enums/PayStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/enums/ReadMe.md">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="110">
+            <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/enums/RestMsg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/form/ProductForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edson/MyTemplate/form/ReadMe.md">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="154">
+            <caret line="7" selection-start-line="7" selection-end-line="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
