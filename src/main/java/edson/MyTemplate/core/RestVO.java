@@ -1,4 +1,4 @@
-package edson.MyTemplate.VO;
+package edson.MyTemplate.core;
 
 import lombok.Data;
 

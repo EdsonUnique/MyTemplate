@@ -1,4 +1,4 @@
-package cn.reegle.deductgoodsmanagerment.utils;
+package edson.MyTemplate.utils;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

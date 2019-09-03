@@ -1,17 +1,15 @@
-package book.utils;
+package edson.MyTemplate.utils;
 
-import book.exceptions.MyException;
+import edson.MyTemplate.exception.MyException;
 import org.springframework.web.multipart.MultipartFile;
 
 import javax.servlet.http.HttpServletResponse;
 import java.io.*;
-import java.time.LocalDateTime;
-import java.util.Date;
 import java.util.UUID;
 
 public class UploadFileUtils {
 
-    public static String writeToUploadFiles(MultipartFile data,String storeLocation) throws Exception{
+    public static String writeToUploadFiles(MultipartFile data, String storeLocation) throws Exception{
 
         BufferedInputStream bis=null;
         BufferedOutputStream bos=null;
@@ -60,7 +58,7 @@ public class UploadFileUtils {
     /**
      * 获取本地文件并返回给浏览器
      */
-    public static void writeFileToClient(HttpServletResponse response,String filePath) throws Exception{
+    public static void writeFileToClient(HttpServletResponse response, String filePath) throws Exception{
 
         if(null==filePath || !new File(filePath).exists()){
             throw new MyException("文件已不存在！");

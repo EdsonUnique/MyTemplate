@@ -1,4 +1,4 @@
-package book.core;
+package edson.MyTemplate.core;
 
 import lombok.Data;
 import org.springframework.beans.factory.annotation.Value;
