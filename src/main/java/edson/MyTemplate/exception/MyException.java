@@ -20,4 +20,8 @@ public class MyException extends RuntimeException {
         this.code=code;
     }
 
+    public MyException(String message){
+        super(message);
+    }
+
 }

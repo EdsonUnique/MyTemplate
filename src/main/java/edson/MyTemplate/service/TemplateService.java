@@ -1,7 +1,7 @@
 package edson.MyTemplate.service;
 
 import edson.MyTemplate.Entity.Order;
-import edson.MyTemplate.VO.OrderVO;
+import edson.MyTemplate.core.OrderVO;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 

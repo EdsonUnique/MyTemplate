@@ -1,7 +1,7 @@
 package edson.MyTemplate.service;
 
 import edson.MyTemplate.Entity.Order;
-import edson.MyTemplate.VO.OrderVO;
+import edson.MyTemplate.core.OrderVO;
 import edson.MyTemplate.controller.WebSocketService;
 import edson.MyTemplate.enums.OrderStatus;
 import org.springframework.beans.BeanUtils;

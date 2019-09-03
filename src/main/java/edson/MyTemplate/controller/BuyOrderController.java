@@ -1,9 +1,9 @@
 package edson.MyTemplate.controller;
 
 import edson.MyTemplate.Entity.Order;
-import edson.MyTemplate.VO.OrderVO;
-import edson.MyTemplate.VO.RestVO;
-import edson.MyTemplate.VO.RestWrapper;
+import edson.MyTemplate.core.OrderVO;
+import edson.MyTemplate.core.RestVO;
+import edson.MyTemplate.core.RestWrapper;
 import edson.MyTemplate.exception.MyException;
 import edson.MyTemplate.exception.MyExceptionEnum;
 import edson.MyTemplate.service.TemplateService;
@@ -12,10 +12,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.util.StringUtils;
-import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.*;
-
-import javax.validation.Valid;
 
 import static java.util.stream.IntStream.of;
 

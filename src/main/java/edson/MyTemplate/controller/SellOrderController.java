@@ -1,7 +1,7 @@
 package edson.MyTemplate.controller;
 
 import edson.MyTemplate.Entity.Order;
-import edson.MyTemplate.VO.OrderVO;
+import edson.MyTemplate.core.OrderVO;
 import edson.MyTemplate.service.TemplateService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
