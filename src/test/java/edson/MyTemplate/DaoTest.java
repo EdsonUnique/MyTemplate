@@ -1,5 +1,5 @@
 package edson.MyTemplate;
-
+/*
 import edson.MyTemplate.dao.ProductCategoryDao;
 import edson.MyTemplate.Entity.ProductCategory;
 import org.junit.Test;
@@ -31,3 +31,4 @@ public class DaoTest {
 
 
 }
+*/

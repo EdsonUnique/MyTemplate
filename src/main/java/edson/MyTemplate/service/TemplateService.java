@@ -1,5 +1,5 @@
 package edson.MyTemplate.service;
-
+/*
 import edson.MyTemplate.Entity.Order;
 import edson.MyTemplate.core.OrderVO;
 import org.springframework.data.domain.Page;
@@ -29,3 +29,4 @@ public interface TemplateService {
     //支付订单
     Order payOrder(String orderId);
 }
+*/

@@ -1,5 +1,5 @@
 package edson.MyTemplate.service;
-
+/*
 import com.alibaba.fastjson.JSON;
 import edson.MyTemplate.Entity.Seller;
 import org.junit.Test;
@@ -36,4 +36,4 @@ public class SellerServiceTest {
 
 
 
-}
+}*/

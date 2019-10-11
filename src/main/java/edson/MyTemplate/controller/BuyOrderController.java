@@ -1,7 +1,7 @@
 package edson.MyTemplate.controller;
-
+/*
 import edson.MyTemplate.Entity.Order;
-import edson.MyTemplate.core.OrderVO;
+//import edson.MyTemplate.core.OrderVO;
 import edson.MyTemplate.core.RestVO;
 import edson.MyTemplate.core.RestWrapper;
 import edson.MyTemplate.exception.MyException;
@@ -16,9 +16,6 @@ import org.springframework.web.bind.annotation.*;
 
 import static java.util.stream.IntStream.of;
 
-/**
- * 订单
- */
 @RestController
 @RequestMapping("/buyOrder")
 @Slf4j
@@ -55,7 +52,7 @@ public class BuyOrderController {
 
         return RestWrapper.success();
     }
-*/
+
     //查看所有订单
     @GetMapping("/list")
 
@@ -79,7 +76,7 @@ public class BuyOrderController {
     @GetMapping("/view_detail/{id}")
     public RestVO viewOrderItems(@PathVariable("id") String orderId){
 
-        OrderVO orderVO=productOrderService.findByOrderId(orderId);
+        //OrderVO orderVO=productOrderService.findByOrderId(orderId);
 
         return RestWrapper.success();
 
@@ -100,3 +97,4 @@ public class BuyOrderController {
 
 
 }
+*/

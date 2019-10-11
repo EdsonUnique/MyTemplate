@@ -1,5 +1,5 @@
 package edson.MyTemplate.controller;
-
+/*
 import edson.MyTemplate.Entity.Order;
 import edson.MyTemplate.core.OrderVO;
 import edson.MyTemplate.service.TemplateService;
@@ -16,6 +16,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 /**
  * 卖家端订单管理
  */
+/*
 @Controller
 @RequestMapping("/sellOrder")
 public class SellOrderController {
@@ -30,6 +31,7 @@ public class SellOrderController {
      * @param model 返回给页面的存储对象
      * @return
      */
+/*
     @GetMapping("/view")
     public String view(@RequestParam(value = "pagenum",defaultValue = "1")Integer pagenum,
                              @RequestParam(value = "size",defaultValue = "10")Integer size,
@@ -94,4 +96,4 @@ public class SellOrderController {
     }
 
 
-}
+}*/
