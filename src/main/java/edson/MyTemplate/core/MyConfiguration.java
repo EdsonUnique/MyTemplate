@@ -11,7 +11,7 @@ import org.springframework.stereotype.Component;
 @Data
 public class MyConfiguration {
 
-    @Value("${upload.location}")
+//    @Value("${upload.location}")
     public String uploadLocation;
 
 }

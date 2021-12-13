@@ -30,16 +30,16 @@ public class EntityGenerator {
 
         // 数据源配置
         DataSourceConfig dsc = new DataSourceConfig();
-        dsc.setUrl("jdbc:mysql://192.168.192.128:3306/bookapp?useUnicode=true&characterEncoding=utf8&serverTimezone=GMT");
+        dsc.setUrl("jdbc:oracle:thin:@192.168.0.10:1521:znjt");
         // dsc.setSchemaName("public");
-        dsc.setDriverName("com.mysql.jdbc.Driver");
-        dsc.setUsername("edson");
-        dsc.setPassword("Edson@123");
+        dsc.setDriverName("oracle.jdbc.driver.OracleDriver");
+        dsc.setUsername("cpyf_cad");
+        dsc.setPassword("cpyf_cad");
         mpg.setDataSource(dsc);
 
         // 包配置
         PackageConfig pc = new PackageConfig();
-        pc.setParent("book");
+        pc.setParent("devIncidentEquipment");
         pc.setEntity("entity");
         pc.setXml("entityMapper");
         pc.setMapper("entityMapper");
@@ -57,7 +57,7 @@ public class EntityGenerator {
             @Override
             public String outputFile(TableInfo tableInfo) {
                 // 自定义输入文件名称
-                return projectPath + "/src/main/java/book/entityMapper"
+                return projectPath + "/src/main/java/devIncidentEquipment/entityMapper"
                         + "/" + tableInfo.getEntityName() + "Mapper" + StringPool.DOT_XML;
             }
         });
@@ -77,7 +77,7 @@ public class EntityGenerator {
         strategy.setNaming(NamingStrategy.underline_to_camel);
         strategy.setColumnNaming(NamingStrategy.underline_to_camel);
         strategy.setEntityLombokModel(true);
-//        strategy.setInclude(scanner("表名"));
+        strategy.setInclude("DEV_INCIDENT_EQUIPMENT");
 //        strategy.setExclude("");
         strategy.setControllerMappingHyphenStyle(true);
         strategy.setEntityTableFieldAnnotationEnable(true);
