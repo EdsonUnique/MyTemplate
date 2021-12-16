@@ -1,6 +1,7 @@
 package edson.MyTemplate;
 
 import edson.MyTemplate.security.MyAuth;
+import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -10,6 +11,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 import java.util.ArrayList;
 import java.util.List;
 
+@MapperScan(value = {"edson.MyTemplate.dao"})
 @SpringBootApplication
 public class MyTemplateApplication implements WebMvcConfigurer {
 

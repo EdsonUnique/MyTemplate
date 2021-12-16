@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="edson.MyTemplate.dao.UserDao">
+    <resultMap id="resultMapBase" type="edson.MyTemplate.Entity.User">
+        <id column="id" property="id" javaType="int" jdbcType="INTEGER"/>
+        <result column="name" property="name" javaType="string" jdbcType="VARCHAR"/>
+        <result column="age" property="age" javaType="int" jdbcType="INTEGER"/>
+        <result column="email" property="email" javaType="string" jdbcType="VARCHAR"/>
+    </resultMap>
+
+    <select id="selectById" parameterType="string" resultMap="resultMapBase">
+        select * from users where id = #{id}
+    </select>
+
+    <update id="update" parameterType="edson.MyTemplate.Entity.User">
+        update users
+        <set>
+            <if test="user.name != null and user.name != ''">
+                name = #{user.name},
+            </if>
+            <if test="user.age != null">
+                age = #{user.age},
+            </if>
+        </set>
+        where id = #{user.id}
+    </update>
+
+    <insert id="insert" parameterType="edson.MyTemplate.Entity.User">
+        insert into users(id,name,age,email)
+        values(
+               #{user.id},#{user.name},#{user.age},#{user.email}
+              )
+    </insert>
+
+
+</mapper>
