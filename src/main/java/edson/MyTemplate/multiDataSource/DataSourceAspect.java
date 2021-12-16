@@ -23,7 +23,7 @@ import java.lang.reflect.Method;
 public class DataSourceAspect {
 
     //定义切点
-    @Pointcut("@annotation(edson.MyTemplate.multiDataSource.DS)")
+    @Pointcut("@annotation(DS)")
     public void dsPointCut() {
 
     }
