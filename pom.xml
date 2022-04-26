@@ -205,6 +205,13 @@
             <version>2.1.2</version>
         </dependency>
 
+        <!-- 集成http请求 -->
+        <dependency>
+            <groupId>commons-httpclient</groupId>
+            <artifactId>commons-httpclient</artifactId>
+            <version>3.1</version>
+        </dependency>
+
         <!--分布式事务 -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -227,6 +234,11 @@
             <version>2.7.0</version>
         </dependency>
 
+        <!-- SpringSecurity -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-security</artifactId>
+        </dependency>
 
 
     </dependencies>
